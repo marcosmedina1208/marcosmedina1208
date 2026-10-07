@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hey, soy Marcos 😎<br><br>🌟 Apasionado por la tecnología  <br>📱 Constructor de apps / 🧠 Aprendiz eterno  <br>💡 Siempre buscando nuevos retos<br><br>🥽 Tech stack:<br>✨ C#<br>✨ MSSQL<br>✨ JAVA<br>✨ MYSQL<br>✨ JS<br>✨ MongoDB<br><br>📍 Objetivo: Convertir ideas → Software útil<br>
+# 👋 Hey, soy Marcos 😎<br><br>🌟 Apasionado por la tecnología  <br>📱 Constructor de apps / 🧠 Aprendiz eterno  <br>💡 Siempre buscando nuevos retos<br><br>🥽 Tech stack:<br>✨ C#<br>✨ MSSQL<br>✨ JAVA<br>✨ MYSQL<br>✨ JS<br>📍 Objetivo: Convertir ideas → Software útil<br>
 
 
 # 💻 Tech Stack:
